@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218015715214",
+    "project_id": "ijob-clone-app-a35e7",
+    "storage_bucket": "ijob-clone-app-a35e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218015715214:android:0f11d215d40f1822cbdedf",
+        "android_client_info": {
+          "package_name": "teddy.ijob_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218015715214-5tvbg8lu4dsaq1chc1q0eq2n4ehbrcc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqeEvJjEI4BySlIN5JbYE7ecucUd_w8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218015715214-5tvbg8lu4dsaq1chc1q0eq2n4ehbrcc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

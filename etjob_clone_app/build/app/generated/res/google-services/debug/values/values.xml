@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">86781315523-qor3fscj88bulrecmpphe92sup8m3k7p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">86781315523</string>
+    <string name="google_api_key" translatable="false">AIzaSyByyGOd6KpAiMEvBcINYJ3wEgdCjQdCRPE</string>
+    <string name="google_app_id" translatable="false">1:86781315523:android:83917b2b67318b2035d576</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByyGOd6KpAiMEvBcINYJ3wEgdCjQdCRPE</string>
+    <string name="google_storage_bucket" translatable="false">etjob-clone-app.appspot.com</string>
+    <string name="project_id" translatable="false">etjob-clone-app</string>
+</resources>

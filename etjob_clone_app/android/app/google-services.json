@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86781315523",
+    "project_id": "etjob-clone-app",
+    "storage_bucket": "etjob-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86781315523:android:83917b2b67318b2035d576",
+        "android_client_info": {
+          "package_name": "teddy.etjob_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86781315523-qor3fscj88bulrecmpphe92sup8m3k7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyGOd6KpAiMEvBcINYJ3wEgdCjQdCRPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86781315523-qor3fscj88bulrecmpphe92sup8m3k7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
